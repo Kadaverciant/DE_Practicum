@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CSharp_GUI_Sample.Euler_Method" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Euler_Method.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_GUI_Sample.Euler_Method_Max_Error">
+    <Position X="1" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Euler_Method_Max_Error.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_GUI_Sample.Exact_Solution">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exact_Solution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_GUI_Sample.Grid">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAQABgABAAAAA=</HashCode>
+      <FileName>Grid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_GUI_Sample.Improved_Euler_Method" Collapsed="true">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Improved_Euler_Method.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_GUI_Sample.Improved_Euler_Method_Max_Error">
+    <Position X="0.75" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Improved_Euler_Method_Max_Error.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_GUI_Sample.Numerical_Method">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Numerical_Method.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_GUI_Sample.Numerical_Method_Error">
+    <Position X="8.75" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Numerical_Method_Error.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_GUI_Sample.Rung_Kutta_Method">
+    <Position X="9.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Rung_Kutta_Method.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_GUI_Sample.Rung_Kutta_Method_Max_Error">
+    <Position X="0.5" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rung_Kutta_Method_Max_Error.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_GUI_Sample.TheButcherSchema" Collapsed="true">
+    <Position X="11.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAUAAAAgAACAAAAAAAAAEI=</HashCode>
+      <FileName>TheButcherSchema.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_GUI_Sample.CalculationsForExact" Collapsed="true">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAABABA=</HashCode>
+      <FileName>CalculationsForExact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
